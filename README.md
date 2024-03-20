@@ -1,0 +1,1 @@
+Bot para casa de apostas SeuBet, voce devera apenas colocar as suas credenciais do telegram e o prefixo a ser removido e o valor, lembrando que o bot esta configurado para funcionar em monitores fullHd em tela cheia, casos mude deverá trocar as configurações de clique da tela
